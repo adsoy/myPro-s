@@ -1,4 +1,4 @@
-package day01variables;
+package day_01variables;
 
 public class tekrar01class {
     public static void main(String[] args) {
